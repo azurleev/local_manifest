@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- trees -->
+    <project path="device/xiaomi/selene" name="azurleev/device_xiaomi_selene" remote="github" revision="eleven" />
+    <project path="vendor/xiaomi/selene" name="azurleev/vendor_xiaomi_selene" remote="github" revision="main" />
+    
+    
+    <!-- Kernel -->
+    <project path="kernel/xiaomi/selene" name="Yukina-Supremacy/android_kernel_xiaomi_selene" remote="github" revision="twelve" />
+        
+     <!-- hals -->
+     <project path="device/mediatek/sepolicy_vndr" name="PixelExperience/device_mediatek_sepolicy_vndr" remote="github" revision="twelve" />    
+</manifest>
